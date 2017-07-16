@@ -16,7 +16,7 @@
     <td colspan="3"><center>Product Description</center></td>
    </tr>
    <tr>
-    <td rowspan="6"><img src="<c:url value="resources/images/${product.prodid}.jpg"/>"></td>
+    <td rowspan="6" align="center"><img src="<c:url value="/resources/images/${product.prodid}.jpg"/>"width="100"></td>
    </tr>
    <tr>
     <td> Product ID </td><td>${product.prodid}</td>
