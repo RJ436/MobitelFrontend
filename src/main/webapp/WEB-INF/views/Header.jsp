@@ -24,7 +24,7 @@
      <div class="navbar-collapse collapse" id="ib-example-navbar">
       
     <ul class="nav navbar-nav navbar-right">
-      <li class="active"><a href="Home">Home</a></li>
+      <li class=""><a href="Home">Home</a></li>
       <li class="">
       <li><a href="AboutUs">About Us</a></li>
       <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Product<span class="caret"></span></a>
@@ -35,6 +35,7 @@
        </ul>
       </li>
       <li><a href="displayProduct">Display Product</a></li>
+      
       <li><a href="login">Login</a></li>
     </ul>
      </div>
